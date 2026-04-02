@@ -235,6 +235,30 @@
       "answer": "Not at all. Ralph was built for <strong>anyone who works with repetitive tasks at scale</strong>. Our users are lawyers, teachers, real estate agents, nutritionists, social media managers, translators, and more. If you can make a spreadsheet and write instructions in plain English, you can use Ralph. No terminal, no code, no API keys required (unless you want to use API mode)."
     }
   },
+  "carousel": {
+    "label": "Real People, Real Tasks",
+    "heading": "What would YOU Ralph?",
+    "c1": "\"I need to transcribe <strong>1,000 audio conversations</strong> into text, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c2": "\"I need to generate <strong>200 images of food</strong> for my cookbook, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c3": "\"I need to create <strong>400 client reports</strong> from this folder, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c4": "\"I need to write <strong>150 product descriptions</strong> for my online store, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c5": "\"I need to generate <strong>300 real estate listings</strong> from property data, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c6": "\"I need to review <strong>500 contracts</strong> and flag risky clauses, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c7": "\"I need to translate <strong>800 pages</strong> into 5 languages, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c8": "\"I need to write <strong>personalized feedback</strong> for 120 students, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c9": "\"I need to add <strong>SEO meta tags</strong> to all 600 pages on my site, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c10": "\"I need to create <strong>250 personalized meal plans</strong> for my clients, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c11": "\"I need to draft <strong>1,000 personalized cold emails</strong> from a lead list, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c12": "\"I need to scan <strong>200 code repos</strong> for security vulnerabilities, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c13": "\"I need to write <strong>alt text for 2,000 images</strong> on my website, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c14": "\"I need to summarize <strong>350 resumes</strong> and rank candidates, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c15": "\"I need to generate <strong>100 YouTube descriptions</strong> with timestamps, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c16": "\"I need to process <strong>400 patient intake forms</strong> into summaries, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c17": "\"I need to create <strong>150 social media posts</strong> from blog articles, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c18": "\"I need to extract data from <strong>600 invoices</strong> into a spreadsheet, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c19": "\"I need to build <strong>80 travel itineraries</strong> for my agency clients, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\"",
+    "c20": "\"I need to write <strong>300 pet adoption bios</strong> for the shelter website, <em style=\"color: #F1C40F; font-style: italic; font-weight: 900;\">fast!</em>\""
+  },
   "tech": {
     "title": "Under the Hood",
     "builtWith": "Built with",
@@ -263,6 +287,6 @@
     "tagline": "Ralph, Parallel AI Task Runner",
     "license": "MIT License · ",
     "github": "GitHub",
-    "quote": "\"I'm helping!\" — Ralph"
+    "quote": "\"I'm helping!\" - Ralph"
   }
 }
