@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "title": "Ralph, Do All Your Tasks at Once",
+    "description": "Ralph runs hundreds of AI tasks in parallel. Import a spreadsheet, hit Start, and let 50 workers handle everything while you grab coffee."
+  },
+  "nav": {
+    "howItWorks": "How It Works",
+    "features": "Features",
+    "useCases": "Use Cases",
+    "faq": "FAQ",
+    "download": "Download"
+  },
+  "hero": {
+    "eyebrow": "DO ALL YOUR TASKS AT ONCE",
+    "title": "50 workers.\nAll at once.\nZero waiting.",
+    "subtitle": "Import a spreadsheet. Tell Ralph what to do. Hit Start.\nHe runs hundreds of AI tasks in parallel, so you can go do something fun.",
+    "downloadMac": "Download for Mac",
+    "watchDemo": "Watch the Demo →",
+    "social": "Built for SEO teams, content ops, and anyone with a spreadsheet full of work.",
+    "speechBubble": "I'm doing 200 tasks right now!"
+  },
+  "showcase": {
+    "title": "See it in action",
+    "caption": "Watch Ralph import tasks and run them across multiple workers simultaneously.\nEach worker processes tasks independently, streaming output in real-time."
+  },
+  "comparison": {
+    "title": "The difference is ridiculous",
+    "oldWay": {
+      "heading": "The Old Way",
+      "items": [
+        "Open your AI tool",
+        "Paste task #1",
+        "Wait for it to finish",
+        "Copy the result",
+        "Paste task #2",
+        "Do this 200 more times",
+        "Lose your mind"
+      ],
+      "badge": "~8 hours for 200 tasks"
+    },
+    "ralphWay": {
+      "heading": "The Ralph Way",
+      "items": [
+        "Import spreadsheet → 200 tasks loaded",
+        "Click Start",
+        "50 workers go brrr",
+        "All results saved as files",
+        "Go get coffee"
+      ],
+      "badge": "~12 minutes for 200 tasks"
+    }
+  },
+  "howItWorks": {
+    "title": "Three steps. That's it.",
+    "step1": {
+      "title": "Import Your Tasks",
+      "description": "Drop in a spreadsheet or JSON file. Map your columns. Every row becomes a task. Every column becomes a variable you can use in your instructions."
+    },
+    "step2": {
+      "title": "Write Your Instructions",
+      "description": "Pick a built-in template or write your own. Use variables like {{task_name}} or any column from your file. Set how many workers you want."
+    },
+    "step3": {
+      "title": "Watch Ralph Work",
+      "description": "Hit Start. Each worker grabs a task, does the work, saves the result. Watch it all happen live. Every output saved as a file on your computer."
+    }
+  },
+  "flowchart": {
+    "csvTitle": "tasks.csv",
+    "colTaskName": "task_name",
+    "colCompany": "company",
+    "row1Task": "Create logo",
+    "row1Company": "Acme Corp",
+    "row2Task": "Write jingle",
+    "row2Company": "BoldBrew",
+    "row3Task": "Brand colors",
+    "row3Company": "Zenith AI",
+    "rowsDots": ". . .",
+    "rowsCount": "1,000 rows",
+    "dropCsv": "Drop a CSV",
+    "tasksLoaded": "1,000 tasks loaded",
+    "promptLabel": "prompt template:",
+    "promptLine1": "\"Design a modern logo",
+    "promptLine2": " for {{company}} that",
+    "promptLine3": " reflects {{task_name}}\"",
+    "arrowFeed": "feed",
+    "ralph": "Ralph",
+    "orchestrates": "Orchestrates",
+    "distributes": "distributes to workers",
+    "w1Task": "Create logo...",
+    "w2Task": "Write jingle...",
+    "w3Task": "Brand colors...",
+    "w4Task": "Tagline...",
+    "w50Task": "Ad copy...",
+    "workersTitle": "50 Workers",
+    "workersSubtitle": "all running at once",
+    "outputTitle": "1,000 Files Done",
+    "outputSubtitle": "images, audio, docs, data"
+  },
+  "features": {
+    "title": "What makes Ralph tick",
+    "parallel": {
+      "title": "Truly Parallel",
+      "description": "Up to 50 AI workers running at the same time. What takes hours one-by-one now takes minutes."
+    },
+    "liveView": {
+      "title": "Live View",
+      "description": "Real-time output streaming from every worker. See exactly what each one is doing as it happens."
+    },
+    "flexible": {
+      "title": "Works Your Way",
+      "description": "Use your favorite AI tool's command line for full file access, or plug in an API key for text tasks."
+    },
+    "retry": {
+      "title": "Smart Retry",
+      "description": "Automatic retry when something hiccups. Reset any failed task with one click. No babysitting required."
+    },
+    "files": {
+      "title": "Files, Not Copy-Paste",
+      "description": "Every result saved as a file on your computer. Named after your task. Ready to use immediately."
+    },
+    "templates": {
+      "title": "Template Engine",
+      "description": "Reusable instruction templates with spreadsheet variables. Built-in templates for SEO, audits, and content."
+    }
+  },
+  "useCases": {
+    "title": "What people use Ralph for",
+    "seo": {
+      "title": "SEO at Scale",
+      "description": "Import 500 pages from your website. Optimize titles, descriptions, headings, and structured data, all in one run. Each page gets its own worker."
+    },
+    "content": {
+      "title": "Content Generation",
+      "description": "Generate blog posts, product descriptions, or documentation from a spreadsheet of topics. Every result saved as a ready-to-publish file."
+    },
+    "audit": {
+      "title": "Audit & Fix",
+      "description": "Feed in audit results from any tool. Ralph dispatches workers to fix accessibility, performance, and SEO issues across your entire site simultaneously."
+    },
+    "bulk": {
+      "title": "Bulk Processing",
+      "description": "Any repetitive AI task at scale. Data transformation, code review, translation, summarization, if you can describe it in words, Ralph can parallelize it."
+    },
+    "translation": {
+      "title": "Translation & Localization",
+      "description": "Translate your entire product, website, or app into 30 languages at once. Each language pair gets its own worker, done in minutes, not weeks."
+    },
+    "email": {
+      "title": "Email & Outreach",
+      "description": "Import a list of leads or contacts. Generate personalized emails, follow-ups, or cold outreach drafts, each one tailored to the recipient."
+    },
+    "data": {
+      "title": "Data Analysis & Reports",
+      "description": "Feed in raw data from surveys, financials, or research. Ralph generates individual analysis reports, summaries, or insights for each entry."
+    },
+    "documents": {
+      "title": "Document Processing",
+      "description": "Summarize contracts, extract key terms from legal docs, or convert meeting transcripts into action items, hundreds at a time."
+    }
+  },
+  "testimonials": {
+    "title": "People love Ralph",
+    "sarah": {
+      "quote": "I'm a lawyer and I used Ralph to transcribe all my client conversations to text at once. What used to take my paralegal a full week now takes 20 minutes.",
+      "name": "Sarah Mitchell",
+      "role": "Attorney, Mitchell & Partners"
+    },
+    "james": {
+      "quote": "I teach 6 classes. I imported all 180 student essays and had Ralph give detailed feedback on each one overnight. Grading used to eat my weekends.",
+      "name": "James Okonkwo",
+      "role": "High School English Teacher"
+    },
+    "lisa": {
+      "quote": "We run an e-commerce store with 2,000 products. Ralph rewrote every single product description in our brand voice. Absolute game changer.",
+      "name": "Lisa Chen",
+      "role": "E-Commerce Manager, StyleHaus"
+    },
+    "marco": {
+      "quote": "I'm a freelance translator. My clients send me huge batches, Ralph does the first pass on 300 documents while I focus on the tricky ones. I've tripled my output.",
+      "name": "Marco Rossi",
+      "role": "Freelance Translator"
+    },
+    "diana": {
+      "quote": "As a real estate agent, I have listings across 15 neighborhoods. I imported all of them and had Ralph generate unique, SEO-optimized descriptions for each property. My listings now rank on the first page. This tool pays for itself in a single deal.",
+      "name": "Diana Vasquez",
+      "role": "Real Estate Agent, Coldwell Banker"
+    },
+    "kevin": {
+      "quote": "I run a podcast network, 12 shows, 50 episodes a month. Ralph generates show notes, timestamps, and social posts for every single episode. My team can finally breathe.",
+      "name": "Kevin Park",
+      "role": "Podcast Network Director"
+    },
+    "aisha": {
+      "quote": "I'm a researcher analyzing 400 academic papers for a literature review. Ralph summarized each one with key findings and methodology. Saved me an entire semester of reading.",
+      "name": "Dr. Aisha Patel",
+      "role": "Research Fellow, Stanford"
+    },
+    "tanya": {
+      "quote": "I manage social media for 8 restaurant brands. Ralph generates a month of posts for all of them, captions, hashtags, everything, in one sitting. My clients think I'm a wizard.",
+      "name": "Tanya Brooks",
+      "role": "Social Media Manager"
+    },
+    "ryan": {
+      "quote": "We had 600 customer support tickets backlogged. I fed them all to Ralph with instructions to draft responses. My support team just reviewed and sent. Cleared the backlog in one afternoon.",
+      "name": "Ryan O'Brien",
+      "role": "Head of Support, TechFlow"
+    },
+    "maria": {
+      "quote": "I'm a nutritionist with 150 clients. I imported all their health profiles and had Ralph create personalized weekly meal plans for every single one. My practice has completely transformed.",
+      "name": "Maria Santos",
+      "role": "Certified Nutritionist"
+    }
+  },
+  "faq": {
+    "title": "But wait, can't I just use...?",
+    "q1": {
+      "question": "Why not just use Claude Code to process 1,000 tasks?",
+      "answer": "Claude Code is a brilliant coding assistant, but it processes <strong>one thing at a time</strong>, sequentially. Ask it to handle 1,000 tasks and you're watching it churn through them one by one for hours. Ralph spawns <strong>up to 50 independent workers simultaneously</strong>. That same batch finishes in minutes, not hours. Plus:<ul><li>Claude Code's context window fills up fast, by task #50 it's forgetting task #1</li><li>Ralph gives each task a <strong>fresh, clean context</strong>, no cross-contamination</li><li>Every result is saved as a <strong>separate file</strong> on your computer, not buried in a chat log</li><li>If one task fails, you retry just that one, not the entire conversation</li><li>No coding or CLI knowledge needed, just import a spreadsheet</li></ul>"
+    },
+    "q2": {
+      "question": "What about Claude Cowork or multi-agent setups?",
+      "answer": "Claude Cowork is great for <strong>collaborative coding workflows</strong> where agents work together on a shared codebase. But it's not built for batch processing hundreds of independent tasks. Ralph is purpose-built for this:<ul><li><strong>Spreadsheet-native</strong>, import CSV/JSON, map columns to variables, go</li><li><strong>Visual dashboard</strong>, see all 50 workers running live, track progress, spot failures instantly</li><li><strong>Template engine</strong>, write your instructions once with {{variables}}, reuse across thousands of tasks</li><li><strong>File output</strong>, every result saved as a named file, organized and ready to use</li><li>Cowork agents share context and coordinate, Ralph workers are deliberately <strong>independent</strong>, which is exactly what you want for batch jobs</li></ul>"
+    },
+    "q3": {
+      "question": "How is Ralph different from OpenAI Codex?",
+      "answer": "Codex is a <strong>cloud-based code generation agent</strong> that runs in sandboxed environments. It's designed for software engineering tasks, not general-purpose batch work. Ralph is fundamentally different:<ul><li><strong>Desktop app</strong>, runs locally on your Mac, no cloud sandbox, your files stay on your computer</li><li><strong>Any task, not just code</strong>, content writing, translations, data analysis, legal docs, meal plans, whatever you can describe in words</li><li><strong>Bring your own AI</strong>, use Claude, GPT, or any AI with a CLI or API. Not locked to one provider</li><li><strong>Designed for non-developers</strong>, no GitHub repos, no pull requests, no terminal. Just a spreadsheet and a Start button</li><li><strong>True parallel execution</strong>, 50 workers processing 50 tasks at the exact same time, not queued sequentially</li></ul>"
+    },
+    "q4": {
+      "question": "Can't I just write a script to loop through tasks with an API?",
+      "answer": "Sure, if you're a developer. But that means writing code to handle concurrency, retries, rate limits, file output, error handling, and progress tracking. Ralph gives you all of that <strong>out of the box</strong> with zero code:<ul><li>Built-in concurrency management with configurable worker count</li><li>Automatic retry on failures with one-click manual retry</li><li>Real-time streaming output from every worker</li><li>Pause, resume, and stop controls</li><li>SQLite persistence, close the app and pick up where you left off</li><li>Reusable prompt templates so you don't rewrite instructions every time</li></ul>You <em>could</em> build this yourself. Or you could just download Ralph and be done in 2 minutes."
+    },
+    "q5": {
+      "question": "Is Ralph just for developers?",
+      "answer": "Not at all. Ralph was built for <strong>anyone who works with repetitive tasks at scale</strong>. Our users are lawyers, teachers, real estate agents, nutritionists, social media managers, translators, and more. If you can make a spreadsheet and write instructions in plain English, you can use Ralph. No terminal, no code, no API keys required (unless you want to use API mode)."
+    }
+  },
+  "tech": {
+    "title": "Under the Hood",
+    "builtWith": "Built with",
+    "builtWithItems": [
+      "Electron + React + TypeScript",
+      "AI CLI / API integration",
+      "SQLite for task persistence",
+      "Desktop-native performance"
+    ],
+    "supports": "Supports",
+    "supportsItems": [
+      "macOS (Apple Silicon & Intel)",
+      "Multiple AI models",
+      "CSV and JSON task import",
+      "Custom reusable templates",
+      "Up to 50 parallel workers"
+    ]
+  },
+  "cta": {
+    "title": "Ready to let Ralph loose?",
+    "subtitle": "Download the app. Import your tasks. Go do something fun\nwhile Ralph handles the boring stuff.",
+    "downloadMac": "Download Ralph for Mac",
+    "viewGithub": "View on GitHub"
+  },
+  "footer": {
+    "tagline": "Ralph, Parallel AI Task Runner",
+    "license": "MIT License · ",
+    "github": "GitHub",
+    "quote": "\"I'm helping!\" — Ralph"
+  }
+}
